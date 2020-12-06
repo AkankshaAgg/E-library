@@ -2,7 +2,7 @@
 
 E-Library is a web application made using HTML, CSS, Bootstrap, JavaScript, C#, ASP.NET and MS SQL.
 
-In this website, following functionalities can be performed
+In this website, following functionalities can be performed:
 
 * In the homepage, we have About us, Terms, View Books, User Login, Sign up and Admin Login tabs. General information about Digital book inventory, Search books and Defaulters List. Also, showing the three simple steps to get the book issued.
 
